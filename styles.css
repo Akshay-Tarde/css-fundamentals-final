@@ -1,0 +1,85 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 36px;
+    background-color: #2E354F;
+    color: #FFF;
+    margin: 0;
+    padding: 40px 0;
+}
+
+
+h2 {
+    font-size: 24px;
+    color: #EF5839;
+    margin-top: 0;
+}
+
+.outer-main {
+    background-color: #2E354F;
+}
+
+.container {
+    width: 620px;
+    margin: 0 auto;
+}
+
+.section {
+    padding: 40px 0;
+}
+
+.section-one {
+    background-color: #FFF;
+    color: #2E354F;
+}
+
+.section-two {
+    background-color: #2E354F;
+    color: #FFF;
+
+}
+
+a {
+    color: #EF5839;
+}
+
+a:focus,
+a:hover {
+    color: goldenrod;
+}
+
+/* Button styling */
+
+.btn {
+    display: inline-block;
+    padding: 15px 30px;
+    font-weight: 900;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.btn-one {
+    color: #FFF;
+    background-color: #EF5839;
+}
+
+.btn-one:focus,
+.btn-one:hover {
+    background-color: #FFF;
+    color: black;
+}
+
+.btn-two {
+    color: black;
+    background-color: #FFF;
+}
+
+.btn-two:focus,
+.btn-two:hover {
+    background-color: #EF5839;
+    color: #FFF;
+}
